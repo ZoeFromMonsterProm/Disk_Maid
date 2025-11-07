@@ -28,7 +28,7 @@ Below this, a scrollable list will show the first 100 items found. Directories a
 3. Settings 
 From the main menu, click Settings.  
 You will see two options:
-Scan Filter: This controls what files the scanner looks for.
+Scan Filter: This controls what files the scanner looks for.  
 enter * or *.*: Finds all files.  
 enter *.txt: Finds only files ending in .txt.  
 enter *.jpg: Finds only files ending in .jpg.  
