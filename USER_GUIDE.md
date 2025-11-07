@@ -29,7 +29,7 @@ Below this, a scrollable list will show the first 100 items found. Directories a
 From the main menu, click Settings.  
 You will see two options:
 Scan Filter: This controls what files the scanner looks for.
-* or *.*: Finds all files.  
+  * or *.*: Finds all files.  
 *.txt: Finds only files ending in .txt.  
 *.jpg: Finds only files ending in .jpg.  
 Display Unit: This changes the unit display file sizes (KB, MB, or GB). This affects both the file list and the total size summary.  
